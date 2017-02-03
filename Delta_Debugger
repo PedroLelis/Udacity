@@ -5,7 +5,6 @@
 # 
 # Once you've found the string, put it in the `answer`
 # variable and submit.
-#
 
 import random
 import re
